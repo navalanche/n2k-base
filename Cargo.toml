@@ -1,0 +1,10 @@
+[package]
+name = "n2k-base"
+description="Basic definitions of data structures and methods for N2K networks. See https://en.wikipedia.org/wiki/NMEA_2000."
+homepage="http://github.com/navalanche/n2k-base"
+repository="https://github.com/navalanche/n2k-base"
+license="AGPLv3"
+version = "0.1.0"
+authors = ["Erwin Gribnau <erwin@gribnau.org>"]
+
+[dependencies]
