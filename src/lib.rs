@@ -1,5 +1,6 @@
 //!
-//! Basic definitions of data structures and methods for N2K networks. See https://en.wikipedia.org/wiki/NMEA_2000.
+//! Basic definitions of data structures and traits for N2K networks.
+//! See <https://en.wikipedia.org/wiki/NMEA_2000>.
 //!
 
 /*
@@ -21,5 +22,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 #![no_std]
 
-pub fn dummy() {
-}
+pub mod n2k;
