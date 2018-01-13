@@ -16,6 +16,10 @@ impl N2kHeader {
         }
         N2kHeader(id)
     }
+
+    pub fn from_raw(raw_id: u32) -> N2kHeader {
+        N2kHeader(raw_id)
+    }
 }
 
 /// automatic conversion into a u32
