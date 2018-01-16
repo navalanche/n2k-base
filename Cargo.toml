@@ -4,7 +4,7 @@ description="Basic definitions of data structures and methods for N2K networks. 
 homepage="http://github.com/navalanche/n2k-base"
 repository="https://github.com/navalanche/n2k-base"
 license="AGPL-3.0"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Erwin Gribnau <erwin@gribnau.org>"]
 
 [dependencies]
