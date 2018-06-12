@@ -1,5 +1,5 @@
-use n2k::N2kMessage;
-use n2k::header::N2kHeader;
+use ::N2kMessage;
+use ::header::N2kHeader;
 
 /// IsoAddressClaim
 /// See <https://www.kvaser.com/about-can/higher-layer-protocols/j1939-introduction/>
